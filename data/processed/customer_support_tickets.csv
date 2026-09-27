@@ -1,0 +1,4 @@
+customer_message,intent,category,ground_truth_response,message_length
+I was charged twice for my order and need a refund.,refund,billing,I am sorry about the duplicate charge. I will review the payment and issue a refund if eligible.,51
+My package has not arrived after 10 days.,delivery,shipping,I apologize for the delay. I can check the carrier status and help with the delivery details.,41
+I want to cancel my subscription before renewal.,cancel_order,account,I can help cancel the subscription and confirm the renewal date before processing the request.,48
