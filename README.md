@@ -4,6 +4,9 @@ CopilotIQ is a prototype for analyzing customer-support conversations and estima
 
 For the full project explanation, current implementation status, file map, caveats, and staged roadmap, see [PROJECT_GUIDE.md](PROJECT_GUIDE.md). The original portfolio vision remains in [CopilotIQ_Project_Roadmap.md](CopilotIQ_Project_Roadmap.md).
 
+
+streamlit run yourscript.py
+
 ## Quick Start (Windows PowerShell)
 
 Run commands from the project root. Using the venv's Python directly avoids conflicts with other Python installations on Windows.
@@ -31,3 +34,4 @@ Open the local URL printed by Streamlit, usually `http://localhost:8501`. Run te
 ```
 
 The current demo does not require API keys or a PostgreSQL server. If no local JSON dataset is supplied, ingestion uses a small built-in synthetic sample. Current impact values are illustrative and should not be presented as measured or scaled business savings.
+
